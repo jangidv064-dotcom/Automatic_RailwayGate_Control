@@ -1,7 +1,7 @@
-Vansh Jangid  
-Siddhant Kalmaste
-Dhiraj Jha
-Bhargav Dhuri
+Vansh Jangid <br> 
+Siddhant Kalmaste <br>
+Dhiraj Jha <br>
+Bhargav Dhuri <br>
 --------------------------------------------------------------------------------
 # Automatic_RailwayGate_Control
 For MPCA
